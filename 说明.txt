@@ -1,0 +1,40 @@
+*姓名name 10
+*性别sex 
+学号uid 10
+专业班级class 20
+宿舍地址dorm 30
+*联系电话tel 15
+QQ qq 12
+*意愿部门1 depart1
+*意愿部门2 depart2
+*是否服从调剂 concede
+*自我介绍introduction
+对社联的期望expectation
+
+
+模块名称
+Freshmen
+
+应用
+首页Index\index
+
+部门介绍 Introduction
+首页 index
+财务部 caiwu
+社团外联企划部 waiqi
+秘书部 mishu
+人力资源部 renzi
+社团部shetuan
+行政监察部xingjian
+外联部wailian
+公共关系部gongguan
+媒体部meiti
+宣传部xuanchuan
+思存工作室sicun
+新媒体工作室xinmeiti
+文艺拓展部wentuo
+
+报名Signup
+提交submit
+修改modify
+
