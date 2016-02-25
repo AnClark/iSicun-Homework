@@ -1,0 +1,17 @@
+Search "DB_PREFIX" (8 hits in 8 files)
+  D:\xampp\htdocs\App\Common\Conf\config.php (1 hit)
+	Line 10:     'DB_PREFIX'             =>  'aunet_',    // 数据库表前缀
+  D:\xampp\htdocs\ThinkPHP\Conf\convention.php (1 hit)
+	Line 62:     'DB_PREFIX'             =>  '',    // 数据库表前缀
+  D:\xampp\htdocs\ThinkPHP\Library\Think\Auth.class.php (1 hit)
+	Line 82:         $prefix = C('DB_PREFIX');
+  D:\xampp\htdocs\ThinkPHP\Library\Think\Db\Driver\Oracle.class.php (1 hit)
+	Line 57:             $this->table = C("DB_SEQUENCE_PREFIX").str_ireplace(C("DB_PREFIX"), "", $match[2]);
+  D:\xampp\htdocs\ThinkPHP\Library\Think\Model.class.php (1 hit)
+	Line 91:             $this->tablePrefix = C('DB_PREFIX');
+  D:\xampp\htdocs\ThinkPHP\Library\Think\Session\Driver\Db.class.php (1 hit)
+	Line 47:        $this->sessionTable  =   C('SESSION_TABLE')?C('SESSION_TABLE'):C("DB_PREFIX")."session";
+  D:\xampp\htdocs\ThinkPHP\Mode\Lite\convention.php (1 hit)
+	Line 58:     'DB_PREFIX'             =>  '',    // 数据库表前缀
+  D:\xampp\htdocs\ThinkPHP\Mode\Lite\Model.class.php (1 hit)
+	Line 84:             $this->tablePrefix = C('DB_PREFIX');
